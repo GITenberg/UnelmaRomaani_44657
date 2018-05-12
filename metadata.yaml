@@ -22,6 +22,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44657#UnelmaRomaani
 gutenberg_issued: '2014-01-13'
 gutenberg_type: Text
 identifiers:
