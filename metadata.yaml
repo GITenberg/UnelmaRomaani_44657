@@ -1,0 +1,39 @@
+_repo: UnelmaRomaani_44657
+_version: 0.1.0
+alternative_title: Le rêve. Finnish
+contributor:
+  translator:
+    agent_name: Jaakkola, Väinö
+    alias: Jaakkola, Vaino
+    gutenberg_agent_id: '40868'
+    url: http://www.gutenberg.org/2009/agents/40868
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_issued: '2014-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44657'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcsh 'Dreams -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PQ'
+title: 'Unelma: Romaani'
+url: http://www.gutenberg.org/ebooks/44657
